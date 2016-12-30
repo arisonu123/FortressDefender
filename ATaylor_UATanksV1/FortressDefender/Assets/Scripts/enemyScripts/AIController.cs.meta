@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 610cf6927bfeb6a44a53c101fd28986b
+timeCreated: 1433579277
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerLoc: {instanceID: 0}
+  - playerTwoLoc: {instanceID: 0}
+  - targetPlayer: {instanceID: 0}
+  - currentEnemyTank: {instanceID: 0}
+  - personalityLook0: {instanceID: 0}
+  - personalityLook1: {instanceID: 0}
+  - personalityLook2: {instanceID: 0}
+  - personalityLook3: {instanceID: 0}
+  - deathSound: {fileID: 8300000, guid: a00d47b7020963a47a06baa8960c7f07, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

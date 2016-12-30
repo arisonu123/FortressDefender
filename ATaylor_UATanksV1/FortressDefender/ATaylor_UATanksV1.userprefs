@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AIController.cs">
+    <Files>
+      <File FileName="..\..\..\..\Documents\project-crimson-nights\Assets\Scripts\returnToPrev.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\Documents\project-crimson-nights\Assets\Scripts\PlayerScripts\enemyKillPoints.cs" Line="1" Column="1" />
+      <File FileName="c:\Users\arisonu\Documents\project-crimson-nights\Assets\Plugins\LeanAudio.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AIController.cs" Line="394" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

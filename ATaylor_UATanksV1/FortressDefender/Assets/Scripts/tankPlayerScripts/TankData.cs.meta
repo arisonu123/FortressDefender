@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 368414af0da162a42b2930ce22ea9a59
+timeCreated: 1433589580
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - trans: {instanceID: 0}
+  - deathSound: {fileID: 8300000, guid: a00d47b7020963a47a06baa8960c7f07, type: 3}
+  - impactSound: {fileID: 8300000, guid: 7fad1421b67df3d43a715e4e0f8550c8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
